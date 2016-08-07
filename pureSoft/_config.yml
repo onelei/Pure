@@ -3,16 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title:  鲁班工作室
+title:  软件阁楼
 subtitle:  大自然的搬运工-Soft 
 description: 
-author: onelei
+author: oneloft
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+##url: http://yoursite.com
+url: http://oneloft.cn
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
